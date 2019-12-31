@@ -99,7 +99,7 @@ In what follows, we walk through the three checks supported by our transformatio
 
 **Purpose:** To check the access rights of each role and the access constraints assigned to specific operations based on predefined attributes. UMLsec  implements  the RABAC  access  control  model  via  the  policy *«abac»*,  which uses  two  tags  called *{role}* and *{right}* to  assign  roles  to subjects and rights to roles, respectively. Operations in need of an access restriction can be annotated with the *«abacRequire»* stereotype  along  with  its  associated *{right}* tag. 
 
-**Prerequisite:** In our transformation, we can automatically assign *roles* to subjects and the *rights* that are needed for restricting the access for some operation. Since our transformation does not allow to automatically specify all the required information for excuting the RABAC check, some information still needs to be inserted manually: One needs to  manually assign  rights to roles, based on the following instructionss: 
+**Prerequisite:** In our transformation, we can automatically assign *roles* to subjects and the *rights* that are needed for restricting the access for some operation. Since our transformation does not allow to automatically specify all the required information for executing the RABAC check, some information still needs to be inserted manually: One needs to  manually assign  rights to roles, based on the following instructions: 
 
 * Right click on the generated UML file from the last step (e.g., example1-generated-result.uml) → open with → UML Model Editor.
 * Click on platform:/resource/myexample/example1-generated-result.uml → open the model → select the *RABAC* class. 
