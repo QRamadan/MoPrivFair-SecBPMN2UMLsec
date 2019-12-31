@@ -9,7 +9,7 @@ the CARiSMA tool.
 * **Artifact: Project package:** https://github.com/QRamadan/MoPrivFair-SecBPMN2UMLsec/blob/master/myexample.zip
 * **Artifact: A mirror of the CARiSMA update site:** https://github.com/QRamadan/MoPrivFair-SecBPMN2UMLsec/blob/master/CARiSMA.zip
 * **Artifact: A mirror of the Henshin update site:** https://github.com/QRamadan/MoPrivFair-SecBPMN2UMLsec/blob/master/org.eclipse.emf.henshin.sdk_1.5.0.zip
-* **Artifact: Air Traffic Management Case Study SecBPMN2 models:** https://figshare.com/s/051baa54ee849eca8d4e
+* **Artifact: Air Traffic Management Case Study SecBPMN2 models:** https://github.com/QRamadan/MoPrivFair-SecBPMN2UMLsec/blob/master/projects.exp
 * **Artifact: Mirrors of the STS-tool current versions:** https://figshare.com/s/b322d002077d99577949
 
 # Artifact contents
