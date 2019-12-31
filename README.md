@@ -111,7 +111,7 @@ In what follows, we walk through the three checks supported by our transformatio
 
 * In the *analysis editor* window, select both the *RABACsec: Create transformation input* and *RABACsec: Use transformation input checks* checks and click OK. 
 * In the checks list, you will see the selected RABAC checks. To perform the checks, first unselect the selected checks, only select the *RABACsec: Create transformation input* and  click *RUN*.
-* Save the configration file *"rabac_configuration.xml"* into *myexample/src/my.example* directory.
+* Save the configuration file *"rabac_configuration.xml"* into *myexample/src/my.example* directory.
 * In the pop-up window *"RABACsec transformation input"*, first click on the droplist of the users and select *"subject"*.
 * From the droplist of the roles, we can select a role for which we want to view the accessible operations. For example, select *Airplane*.
 * The *Active* checkbox allows you to identify whether the selected role is active or not. Please tick the checkbox.
