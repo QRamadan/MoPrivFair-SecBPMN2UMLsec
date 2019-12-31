@@ -56,7 +56,7 @@ the generation process. The process could take a few minutes, and there might be
 
 ## Performing the verification. 
 
-In this step, we use CARiSMA checks to verify the generated UML models against UMLsec security policies. For this, please follow the following istructions.
+In this step, we use CARiSMA checks to verify the generated UML models against UMLsec security policies. For this, please follow the following instructions.
 
 * Right click on the *myexample* project in the *Project Explorer view* → New → Other → CARiSMA → Analysis
 → Next → in the dialog select the file that is generated from the last step (e.g.,
