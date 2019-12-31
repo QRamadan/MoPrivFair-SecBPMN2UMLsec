@@ -1,14 +1,11 @@
 # Integrating BPMN- and UML-based Data-Protection Engineering: A Sub-Framework of the MoPrivFair Methodology
 
-This file presents the artifacts used in Chapter 3 of my PhD thesis, which provides a Framework for Integrating BPMN- and UML-based Data-Protection Engineering. This framework is a sub-framework of the proposed MoPriveFair methodology in my thesis. This file includes the model transformation from SecBPMN2 to UMLsec models as well as four examples
-models from the Air Traffic Management System case study. It explains the process of
+This file presents the artifacts used in Chapter 3 of my PhD thesis, which provides a Framework for Integrating BPMN- and UML-based Data-Protection Engineering. This framework is a sub-framework of the proposed MoPriveFair methodology in my thesis. This file includes the model transformation from SecBPMN2 to UMLsec models as well as four examples models from the Air Traffic Management System case study. It explains the process of
 using the transformation, and the verification of the generated UMLsec models using
 the CARiSMA tool.
 
 # Resources
 
-* **MODELS'17 paper (preprint version):** https://figshare.com/s/2a741558cb1381db8dd6
-* **Artifact paper:** https://figshare.com/s/69de2308c85dfc31d9a2
 * **Artifact: Project package:** https://figshare.com/s/b292824ca98f2185a949
 * **Artifact: A mirror of the CARiSMA update site:** https://figshare.com/s/dc79bf8d4eb451ccca2f
 * **Artifact: A mirror of the Henshin update site:** https://figshare.com/s/a922f57fd14c853e313f
