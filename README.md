@@ -52,7 +52,7 @@ the generation process. The process could take a few minutes, and there might be
 * The results of the transformation process are three files that will be stored to the *myexample/src/my.example* directory: 
    * The first file contains the generated UMLsec model. The name of this file is the name of the selected .bpmn file as input to our transformation followed by *-generated-result.uml* (e.g., example1-generated-result.uml). 
    * The second file contains the generated trace model which links the SecBPMN2 and UMLsec models. The name of this file is the name of the selected .bpmn file followed by *-generated-result-trace.xmi* (e.g., example1-generated-result-trace.xmi). 
-   * The third file contains the UMLsec operations that have an access restrections together with rights the should be assigned to the roles to grant them an access for these operations. The name of this file is the name of the selected .bpmn file followed by *-generated-result-rights.txt* (e.g., example1-generated-result-rights.txt). 
+   * The third file contains the UMLsec operations that have access restrictions  together with rights the should be assigned to the roles to grant them access for these operations. The name of this file is the name of the selected .bpmn file followed by *-generated-result-rights.txt* (e.g., example1-generated-result-rights.txt). 
 
 ## Performing the verification. 
 
