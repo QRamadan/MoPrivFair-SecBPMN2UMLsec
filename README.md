@@ -43,12 +43,12 @@ sites: http://carisma.umlsec.de/updatesite for CARiSMA, and  http://download.ecl
 ## Performing the transformation. 
 To execute the transformation from SecBPMN2 to UMLsec models, please follow the following instruction. 
 * Import our project package to your local Eclipse workspace.
-* Right click on the main class *"src/my.example/BpmnToUml.java"* → *Run As JUnit Plug-in Test*. By default, our transformation takes as input the *example1.bpmn* file. To change the input file, first copy the name of one of the BPMN files
+* Right-click on the main class *"src/my.example/BpmnToUml.java"* → *Run As JUnit Plug-in Test*. By default, our transformation takes as input the *example1.bpmn* file. To change the input file, first copy the name of one of the BPMN files
 that are provided in *myexample → src → my.example* directory. Second, find line 91
 in the *BpmnToUml.java* file (**public static final String EXAMPLE = "example1.bpmn";**)  and replace the file name *"example1"* with the name of
 the selected BPMN file. ** Please note that you cannot directly view or modify these bpmn models from you Eclipse. For viewing and modifying the bpmn models please look into the last section of this README file *viewing and modifying the SecBPMN2 models* **
-* After running the *BpmnToUml.java* file, you should see console output informing you about
-the generation process. The process could take a few minutes, and there might be some warnings/error messages related to the underlying plug-ins. As these do not concern us, we can ignore them. The process is finished when the following line is printed to the console: *Saved result in 'example1-generated-result.uml'.* The name of the .uml file in this line is  the name of the selected .bpmn  file as input to our transformation folowed by *-generated-result.uml*.
+* After running the *BpmnToUml.java* file, you should see the console output informing you about
+the generation process. The process could take a few minutes, and there might be some warnings/error messages related to the underlying plug-ins. As these do not concern us, we can ignore them. The process is finished when the following line is printed to the console: *Saved result in 'example1-generated-result.uml'.* The name of the .uml file in this line is  the name of the selected .bpmn  file as input to our transformation followed by *-generated-result.uml*.
 * The results of the transformation process are three files which will be stored to the *myexample/src/my.example* directory: 
    * The first file contains the generated UMLsec model. The name of this file is the name of the selected .bpmn file as input to our transformation followed by *-generated-result.uml* (e.g., example1-generated-result.uml). 
    * The second file contains the generated trace model which links the SecBPMN2 and UMLsec models. The name of this file is the name of the selected .bpmn file followed by *-generated-result-trace.xmi* (e.g., example1-generated-result-trace.xmi). 
