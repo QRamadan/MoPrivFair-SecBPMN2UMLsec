@@ -6,7 +6,7 @@ the CARiSMA tool.
 
 # Resources
 
-* **Artifact: Project package:** https://figshare.com/s/b292824ca98f2185a949
+* **Artifact: Project package:** https://github.com/QRamadan/MoPrivFair-SecBPMN2UMLsec/blob/master/myexample.zip
 * **Artifact: A mirror of the CARiSMA update site:** https://figshare.com/s/dc79bf8d4eb451ccca2f
 * **Artifact: A mirror of the Henshin update site:** https://figshare.com/s/a922f57fd14c853e313f
 * **Artifact: Air Traffic Management Case Study SecBPMN2 models:** https://figshare.com/s/051baa54ee849eca8d4e
