@@ -1,10 +1,7 @@
-# From Secure Business Process Modeling to Design-Level Security Verification
-Qusai Ramadan, Mattia Salnitri, Daniel Strüber, Jan Jürjens and Paolo Giorgini
+# Integrating BPMN- and UML-based Data-Protection Engineering: A Sub-Framework of the MoPrivFair Methodology
 
-In this file, we present the artifact submission for our paper of the same name, to
-be presented at the MoDELS conference 2017 in Austin, TX. Our submission includes
-the model transformation from SecBPMN2 to UMLsec models as well as four examples
-models from the Air Traffic Management System case study. We explain the process of
+This file presents the artifacts used in Chapter 3 of my PhD thesis, which provides a Framework for Integrating BPMN- and UML-based Data-Protection Engineering. This framework is a sub-framework of the proposed MoPriveFair methodology in my thesis. This file includes the model transformation from SecBPMN2 to UMLsec models as well as four examples
+models from the Air Traffic Management System case study. It explains the process of
 using the transformation, and the verification of the generated UMLsec models using
 the CARiSMA tool.
 
